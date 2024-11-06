@@ -1,0 +1,257 @@
+[2024-11-04 21:52:14.950]: entering -- org.netbeans.installer.Installer.main():60
+[2024-11-04 21:52:14.950]: initializing the installer engine
+[2024-11-04 21:52:14.950]:     entering -- org.netbeans.installer.Installer.<init>():95
+[2024-11-04 21:52:14.950]:     ... initializing ErrorHandler
+[2024-11-04 21:52:14.950]:     ... end of ErrorHandler initialization
+[2024-11-04 21:52:14.950]:     exiting -- org.netbeans.installer.Installer.<init>():95
+[2024-11-04 21:52:14.950]:     entering -- org.netbeans.installer.Installer.<init>():96
+[2024-11-04 21:52:14.950]:     dumping target system information
+[2024-11-04 21:52:14.950]:         system properties:
+[2024-11-04 21:52:14.950]:             file.encoding => UTF-8
+[2024-11-04 21:52:14.950]:             file.separator => \
+[2024-11-04 21:52:14.950]:             java.class.path => C:\Users\keiti\AppData\Local\Temp\\NBI73329.tmp\bundle.jar
+[2024-11-04 21:52:14.950]:             java.class.version => 67.0
+[2024-11-04 21:52:14.950]:             java.home => C:\Program Files\Java\jdk-23
+[2024-11-04 21:52:14.950]:             java.io.tmpdir => C:\Users\keiti\AppData\Local\Temp\
+[2024-11-04 21:52:14.950]:             java.library.path => C:\Program Files\Java\jdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\keiti\AppData\Local\Microsoft\WindowsApps;C:\Users\keiti\AppData\Local\Programs\Microsoft VS Code\bin;.
+[2024-11-04 21:52:14.950]:             java.runtime.name => Java(TM) SE Runtime Environment
+[2024-11-04 21:52:14.950]:             java.runtime.version => 23.0.1+11-39
+[2024-11-04 21:52:14.950]:             java.specification.name => Java Platform API Specification
+[2024-11-04 21:52:14.950]:             java.specification.vendor => Oracle Corporation
+[2024-11-04 21:52:14.950]:             java.specification.version => 23
+[2024-11-04 21:52:14.950]:             java.vendor => Oracle Corporation
+[2024-11-04 21:52:14.950]:             java.vendor.url => https://java.oracle.com/
+[2024-11-04 21:52:14.950]:             java.vendor.url.bug => https://bugreport.java.com/bugreport/
+[2024-11-04 21:52:14.950]:             java.version => 23.0.1
+[2024-11-04 21:52:14.950]:             java.version.date => 2024-10-15
+[2024-11-04 21:52:14.950]:             java.vm.compressedOopsMode => Zero based
+[2024-11-04 21:52:14.950]:             java.vm.info => mixed mode, sharing
+[2024-11-04 21:52:14.950]:             java.vm.name => Java HotSpot(TM) 64-Bit Server VM
+[2024-11-04 21:52:14.950]:             java.vm.specification.name => Java Virtual Machine Specification
+[2024-11-04 21:52:14.950]:             java.vm.specification.vendor => Oracle Corporation
+[2024-11-04 21:52:14.950]:             java.vm.specification.version => 23
+[2024-11-04 21:52:14.950]:             java.vm.vendor => Oracle Corporation
+[2024-11-04 21:52:14.950]:             java.vm.version => 23.0.1+11-39
+[2024-11-04 21:52:14.950]:             jdk.debug => release
+[2024-11-04 21:52:14.950]:             line.separator => 
+[2024-11-04 21:52:14.950]:             native.encoding => Cp1252
+[2024-11-04 21:52:14.950]:             netbeans.default_cachedir_root => C:\Users\keiti\AppData\Local\NetBeans\Cache
+[2024-11-04 21:52:14.950]:             netbeans.default_userdir_root => C:\Users\keiti\AppData\Roaming\NetBeans
+[2024-11-04 21:52:14.950]:             os.arch => amd64
+[2024-11-04 21:52:14.950]:             os.name => Windows 11
+[2024-11-04 21:52:14.950]:             os.version => 10.0
+[2024-11-04 21:52:14.950]:             path.separator => ;
+[2024-11-04 21:52:14.950]:             stderr.encoding => Cp1252
+[2024-11-04 21:52:14.950]:             stdout.encoding => Cp1252
+[2024-11-04 21:52:14.950]:             sun.arch.data.model => 64
+[2024-11-04 21:52:14.950]:             sun.boot.library.path => C:\Program Files\Java\jdk-23\bin
+[2024-11-04 21:52:14.950]:             sun.cpu.endian => little
+[2024-11-04 21:52:14.950]:             sun.cpu.isalist => amd64
+[2024-11-04 21:52:14.950]:             sun.io.unicode.encoding => UnicodeLittle
+[2024-11-04 21:52:14.950]:             sun.java.command => org.netbeans.installer.Installer
+[2024-11-04 21:52:14.950]:             sun.java.launcher => SUN_STANDARD
+[2024-11-04 21:52:14.950]:             sun.jnu.encoding => Cp1252
+[2024-11-04 21:52:14.950]:             sun.management.compiler => HotSpot 64-Bit Tiered Compilers
+[2024-11-04 21:52:14.950]:             sun.os.patch.level => 
+[2024-11-04 21:52:14.950]:             user.country => FR
+[2024-11-04 21:52:14.950]:             user.dir => C:\Users\keiti\Desktop\NETBEANS
+[2024-11-04 21:52:14.950]:             user.home => C:\Users\keiti
+[2024-11-04 21:52:14.950]:             user.language => fr
+[2024-11-04 21:52:14.950]:             user.name => keiti
+[2024-11-04 21:52:14.950]:             user.script => 
+[2024-11-04 21:52:14.950]:             user.timezone => GMT+01:00
+[2024-11-04 21:52:14.950]:             user.variant => 
+[2024-11-04 21:52:14.950]:     ... end of target system information
+[2024-11-04 21:52:14.950]:     exiting -- org.netbeans.installer.Installer.<init>():96
+[2024-11-04 21:52:14.966]:     loading jni library
+[2024-11-04 21:52:14.966]:         library resource path: native/jnilib/windows/windows-x64.dll
+[2024-11-04 21:52:15.013]:         library file path: C:\Users\keiti\AppData\Local\Temp\nbi-11096755546162111022.tmp
+[2024-11-04 21:52:15.044]:         ... successfully loaded the library
+[2024-11-04 21:52:15.044]:     entering -- org.netbeans.installer.Installer.<init>():101
+[2024-11-04 21:52:15.044]:     parsing command-line arguments
+[2024-11-04 21:52:15.044]:         ... no command line arguments were specified
+[2024-11-04 21:52:15.044]:     ... finished parsing command line arguments
+[2024-11-04 21:52:15.044]:     exiting -- org.netbeans.installer.Installer.<init>():101
+[2024-11-04 21:52:15.044]:     entering -- org.netbeans.installer.Installer.<init>():102
+[2024-11-04 21:52:15.044]:     loading engine properties
+[2024-11-04 21:52:15.044]:         loading engine properties
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.default => 600
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.gtk => 704
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.head.right.image => resource:org/netbeans/installer/wizard/wizard-description-background.png
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.nimbus => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.xp => 450
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.nimbus => 512
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.title.prefix => Apache NetBeans IDE Installer
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.nimbus => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.win.xp => 600
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.jdk5.resource => org/netbeans/installer/product/components/netbeans-license-jdk5.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.classic => 442
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.jtb.resource => org/netbeans/installer/product/components/netbeans-license-jtb.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.motif => 470
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.default => 600
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.aqua => 480
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.xp => 600
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.jdk6.resource => org/netbeans/installer/product/components/netbeans-license-jdk6.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.aqua => 480
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.default => 500
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.mysql.resource => org/netbeans/installer/product/components/netbeans-license-mysql.txt
+[2024-11-04 21:52:15.044]:             loading nbi.product.suggest.install => true
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.icon => resource:org/netbeans/installer/wizard/wizard-icon.png
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.aqua => 640
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.motif => 470
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.gtk => 528
+[2024-11-04 21:52:15.044]:             loading nbi.product.remove.corrupted.products.silently => true
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.motif => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.classic => 588
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.welcome.left.bottom.image => resource:org/netbeans/installer/wizard/components/panels/netbeans/resources/welcome-left-bottom.png
+[2024-11-04 21:52:15.044]:             loading nbi.macosx.application.directory.name => NetBeans IDE Installer
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.resource => org/netbeans/installer/product/components/netbeans-license.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.gtk => 528
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.metal => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.motif => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.metal => 470
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.gtk => 704
+[2024-11-04 21:52:15.044]:             loading nbi.junit.license.resource => org/netbeans/installer/product/components/junit-license.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.metal => 624
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.default => 500
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.win.classic => 442
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.win.xp => 450
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.height.nimbus => 512
+[2024-11-04 21:52:15.044]:             loading nbi.overall.license.javafx.resource => org/netbeans/installer/product/components/netbeans-license-javafx.txt
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.title.pattern => {0}
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.width.win.classic => 588
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.height.metal => 470
+[2024-11-04 21:52:15.044]:             loading nbi.wizard.ui.swing.frame.minimum.width.aqua => 640
+[2024-11-04 21:52:15.044]:     ... finished loading engine properties
+[2024-11-04 21:52:15.044]:     exiting -- org.netbeans.installer.Installer.<init>():102
+[2024-11-04 21:52:15.044]:     initializing the local directory
+[2024-11-04 21:52:15.044]:         ... custom local directory was not specified, using the default
+[2024-11-04 21:52:15.044]:         ... local directory: C:\Users\keiti\.nbi
+[2024-11-04 21:52:15.044]:     ... finished initializing local directory
+[2024-11-04 21:52:15.091]:     entering -- org.netbeans.installer.Installer.<init>():108
+[2024-11-04 21:52:15.091]:     ... initializing Registry
+[2024-11-04 21:52:15.091]:     ... end of initializing ErrorHandler
+[2024-11-04 21:52:15.091]:     exiting -- org.netbeans.installer.Installer.<init>():108
+[2024-11-04 21:52:15.091]:     entering -- org.netbeans.installer.Installer.<init>():109
+[2024-11-04 21:52:15.107]:     ... initializing Wizard
+[2024-11-04 21:52:15.169]:         ... loading registry from resource:data/registry.xml
+[2024-11-04 21:52:15.216]:         entering -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.216]:         validating previous installations
+[2024-11-04 21:52:15.216]:         ... validating installations finished
+[2024-11-04 21:52:15.216]:         exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.216]:         Can`t load message in bundle org.netbeans.installer.wizard.components.panels.netbeans.Bundle for key NPrISP.installation.folders using [jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e] classloader
+[2024-11-04 21:52:15.216]:     ... end of initializing Wizard
+[2024-11-04 21:52:15.216]:     exiting -- org.netbeans.installer.Installer.<init>():109
+[2024-11-04 21:52:15.216]:     creating lock file
+[2024-11-04 21:52:15.216]:         ... created lock file: C:\Users\keiti\.nbi\.nbilock
+[2024-11-04 21:52:15.231]:     finished creating lock file
+[2024-11-04 21:52:15.231]: ... finished initializing the engine
+[2024-11-04 21:52:15.231]: exiting -- org.netbeans.installer.Installer.main():60
+[2024-11-04 21:52:15.231]: entering -- org.netbeans.installer.Installer.main():60
+[2024-11-04 21:52:15.231]: starting the installer
+[2024-11-04 21:52:15.231]:     ... initializing look and feel
+[2024-11-04 21:52:15.231]:         ... custom look and feel class name was not specified, using system default
+[2024-11-04 21:52:15.263]:         ... class name: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2024-11-04 21:52:15.263]:         ... get installed L&Fs
+[2024-11-04 21:52:15.294]:         ... set specified L&F
+[2024-11-04 21:52:15.310]:         ... check headless
+[2024-11-04 21:52:15.310]:         ... creating JFileChooser object to check possible issues with UI
+[2024-11-04 21:52:15.636]:         ... getting default Toolkit to check possible issues with UI
+[2024-11-04 21:52:15.636]:         ... creating JProgressBar object to check possible issues with UI
+[2024-11-04 21:52:15.636]:         ... all UI checks done
+[2024-11-04 21:52:15.636]:         ... L&F is set
+[2024-11-04 21:52:15.636]:     ... initializing L&F finished
+[2024-11-04 21:52:15.715]:     NameResolver - to parse &Help!
+[2024-11-04 21:52:15.730]:     NameResolver - to parse < &Back
+[2024-11-04 21:52:15.730]:     NameResolver - to parse &Next >
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Cancel
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.730]:     NameResolver - to parse Please wait while Apache NetBeans IDE installer initializes
+[2024-11-04 21:52:15.746]:     NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.746]:     NameResolver - to parse Please wait while Apache NetBeans IDE installer initializes
+[2024-11-04 21:52:15.746]: ... finished starting the installer
+[2024-11-04 21:52:15.746]: exiting -- org.netbeans.installer.Installer.main():60
+[2024-11-04 21:52:15.746]: NameResolver - to parse Configuring the Installer...
+[2024-11-04 21:52:15.746]: entering -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():53
+[2024-11-04 21:52:15.746]: initializing product registry
+[2024-11-04 21:52:15.746]:     entering -- org.netbeans.installer.product.Registry.initializeRegistry():171
+[2024-11-04 21:52:15.746]:     initializing product registry properties
+[2024-11-04 21:52:15.746]:         initializing local product cache directory
+[2024-11-04 21:52:15.746]:         ... C:\Users\keiti\.nbi\product-cache
+[2024-11-04 21:52:15.746]:         initializing local product registry file
+[2024-11-04 21:52:15.746]:             ... C:\Users\keiti\.nbi\registry.xml
+[2024-11-04 21:52:15.746]:             initializing local product registry stub uri
+[2024-11-04 21:52:15.746]:             ... resource:org/netbeans/installer/product/default-registry.xml
+[2024-11-04 21:52:15.746]:             initializing bundled product registry uri
+[2024-11-04 21:52:15.746]:             ... resource:data/registry.xml
+[2024-11-04 21:52:15.746]:             initializing product registry schema uri
+[2024-11-04 21:52:15.746]:             ... resource:org/netbeans/installer/product/registry.xsd
+[2024-11-04 21:52:15.746]:             initializing remote product registries uris
+[2024-11-04 21:52:15.746]:             initializing state file schema uri
+[2024-11-04 21:52:15.746]:             ... resource:org/netbeans/installer/product/state-file.xsd
+[2024-11-04 21:52:15.746]:             initializing default state file uri
+[2024-11-04 21:52:15.746]:             ... resource:org/netbeans/installer/product/default-state-file.xml
+[2024-11-04 21:52:15.746]:             initializing target platform
+[2024-11-04 21:52:15.746]:             ... windows-x64
+[2024-11-04 21:52:15.746]:     initializing product registry properties
+[2024-11-04 21:52:15.746]:     exiting -- org.netbeans.installer.product.Registry.initializeRegistry():171
+[2024-11-04 21:52:15.746]:     ... loading registry from file:/C:/Users/keiti/.nbi/registry.xml
+[2024-11-04 21:52:15.761]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.761]:     validating previous installations
+[2024-11-04 21:52:15.777]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.777]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.793]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.793]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.793]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.793]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.793]:     ... validating installations finished
+[2024-11-04 21:52:15.793]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.793]:     ... loading registry from resource:data/registry.xml
+[2024-11-04 21:52:15.808]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.808]:     validating previous installations
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:         NameResolver - to parse C:\Program Files\NetBeans-23
+[2024-11-04 21:52:15.808]:     ... validating installations finished
+[2024-11-04 21:52:15.808]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():982
+[2024-11-04 21:52:15.808]: ... product registry initialization complete
+[2024-11-04 21:52:15.808]: exiting -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():53
+[2024-11-04 21:52:15.808]: ... bundledProductSkip = null
+[2024-11-04 21:52:15.808]: ... bundledProductToInstall = null
+[2024-11-04 21:52:15.824]: NameResolver - to parse resource:org/netbeans/installer/wizard/components/panels/netbeans/resources/welcome-left-bottom.png
+[2024-11-04 21:52:15.824]: NameResolver - to parse &Help!
+[2024-11-04 21:52:15.824]: NameResolver - to parse < &Back
+[2024-11-04 21:52:15.824]: NameResolver - to parse &Next >
+[2024-11-04 21:52:15.824]: NameResolver - to parse Cancel
+[2024-11-04 21:52:15.824]: NameResolver - to parse <html><h2 style="color: #FF8E00; bold">Welcome to the Apache NetBeans IDE 23 Installer</h2>
+[2024-11-04 21:52:15.824]: NameResolver - to parse </html>
+[2024-11-04 21:52:15.824]: NameResolver - to parse text/html
+[2024-11-04 21:52:15.855]: NameResolver - to parse <html>
+[2024-11-04 21:52:15.855]: NameResolver - to parse The installer will install the NetBeans IDE with the following packs and runtimes.<br>Click Customize to select the packs and runtimes to install.<br><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse text/html
+[2024-11-04 21:52:15.855]: NameResolver - to parse <html>
+[2024-11-04 21:52:15.855]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2024-11-04 21:52:15.855]: NameResolver - to parse </html>
+[2024-11-04 21:52:15.855]: NameResolver - to parse text/html
+[2024-11-04 21:52:15.855]: NameResolver - to parse &Customize...
+[2024-11-04 21:52:15.871]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2024-11-04 21:52:15.871]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2024-11-04 21:52:15.886]: NameResolver - to parse <dummy description>
+[2024-11-04 21:52:17.878]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2024-11-04 21:52:19.889]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2024-11-04 21:52:20.608]: NameResolver - to parse Cancel
+[2024-11-04 21:52:20.608]: NameResolver - to parse Are you sure you want to cancel?
+[2024-11-04 21:52:20.608]: ... showing Yes/No dialog
+[2024-11-04 21:52:20.608]:     title: Cancel
+[2024-11-04 21:52:20.608]:     message: Are you sure you want to cancel?
+[2024-11-04 21:52:22.046]: ... dialog closed, choice : yes

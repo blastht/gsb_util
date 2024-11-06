@@ -1,0 +1,3 @@
+[filesystem "Oracle Corporation|23.0.1|806763389"]
+	timestampResolution = 1268 microseconds
+	minRacyThreshold = 0 nanoseconds
